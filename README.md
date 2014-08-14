@@ -10,6 +10,6 @@ Very easy to implement to your xcode:
 - Download template file here
 - Go to Application/xcode.app , right click to xcode file -> Show Package Contents.
 - Go to Contents/Developer/Library/Xcode/Templates/File Templates.
-- In the File Templates folder move the template file which  is downloaded. (KidCocos2d-x)
+- Coppy the template file which  is downloaded (KidCocos2d-x) to the File Templates folder 
 
 Done !
